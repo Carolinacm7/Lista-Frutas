@@ -1,2 +1,2 @@
 # Lista-Frutas
-Creacion de Lista con frutas como ejemplo
+Creación de Lista con frutas como ejemplo
